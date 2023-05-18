@@ -1,4 +1,324 @@
 {
+    "Der Fruehsommer hat begonnen! Das ist jetzt im Garten zu tun": {
+        "isPremium": false,
+        "date": "18. 5. 2023",
+        "time": "19:03 Uhr",
+        "comments": 0,
+        "ressort": "Meine-Welt",
+        "author": "Karl Ploberger"
+    },
+    "Manchester City ist der Perfektion nahe": {
+        "isPremium": false,
+        "date": "unknown",
+        "time": "18:40 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "Mai 2023"
+    },
+    "Zulassung fuer Stripfing: Es wird enger fuer Steyr": {
+        "isPremium": false,
+        "date": "unknown",
+        "time": "18:31 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "Mai 2023"
+    },
+    "Blau-Weiss Linz vertraut im Meisterrennen auf zwei Titelhamster im Tor": {
+        "isPremium": false,
+        "date": "18. 5. 2023",
+        "time": "18:30 Uhr",
+        "comments": 1,
+        "ressort": "Sport",
+        "author": "Raphael Watzinger"
+    },
+    "Das waren die wichtigsten Schlagzeilen am Feiertag": {
+        "isPremium": false,
+        "date": "18. 5. 2023",
+        "time": "18:22 Uhr",
+        "comments": 0,
+        "ressort": "keine Angabe",
+        "author": "nachrichten.at"
+    },
+    "Die letzte Fahrt der Theodor Koerner": {
+        "isPremium": true,
+        "date": "18. 5. 2023",
+        "time": "18:00 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Eike-Clemens Kullmann"
+    },
+    "Mure: Haeuser im Zillertal abgeschnitten": {
+        "isPremium": false,
+        "date": "18. 5. 2023",
+        "time": "17:58 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "Salzburg: Einbrecher schlief mit Beute auf Parkbank ein": {
+        "isPremium": false,
+        "date": "18. 5. 2023",
+        "time": "17:28 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "Wie Schueler fuer Wirtschaft begeistert werden": {
+        "isPremium": true,
+        "date": "18. 5. 2023",
+        "time": "17:01 Uhr",
+        "comments": 0,
+        "ressort": "Wirtschaft",
+        "author": "Verena Mitterlechner"
+    },
+    "Raetseln ueber die ukrainische Gegenoffensive": {
+        "isPremium": false,
+        "date": "18. 5. 2023",
+        "time": "16:42 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Nach Unwetter stehen in Norditalien 37 Gemeinden unter Wasser": {
+        "isPremium": false,
+        "date": "18. 5. 2023",
+        "time": "16:28 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "Stoptafel uebersehen: Zwei Verletzte bei Unfall in Wels": {
+        "isPremium": false,
+        "date": "18. 5. 2023",
+        "time": "16:05 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "nachrichten.at"
+    },
+    "Hattmannsdorfer holt Ex-LRH-Direktor Pammer als Projektleiter": {
+        "isPremium": false,
+        "date": "unknown",
+        "time": "16:00 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "Mai 2023"
+    },
+    "Zehn Schritte zum Paradeiser-Paradies": {
+        "isPremium": true,
+        "date": "18. 5. 2023",
+        "time": "15:38 Uhr",
+        "comments": 0,
+        "ressort": "Meine-Welt",
+        "author": "Karl Ploberger"
+    },
+    "Helmut Berger aus Bad Ischl: Der einst schoenste Mann der Welt ist tot": {
+        "isPremium": false,
+        "date": "18. 5. 2023",
+        "time": "15:11 Uhr",
+        "comments": 0,
+        "ressort": "Kultur",
+        "author": "nachrichten.at/apa"
+    },
+    "Gunskirchen: Unbekannter fuhr mit Auto ueber Leitpfloecke": {
+        "isPremium": false,
+        "date": "18. 5. 2023",
+        "time": "15:06 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "nachrichten.at"
+    },
+    "Muehlviertler von Kleinbus erfasst": {
+        "isPremium": false,
+        "date": "18. 5. 2023",
+        "time": "14:56 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "nachrichten.at"
+    },
+    "\"Eine Krankenschwester kann Biologie wahrscheinlich besser vermitteln\"": {
+        "isPremium": true,
+        "date": "18. 5. 2023",
+        "time": "14:25 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "Michael Schaefl"
+    },
+    "Kindernachrichten: Pilze und Bakterien verspeisen Plastikmuell": {
+        "isPremium": false,
+        "date": "18. 5. 2023",
+        "time": "14:00 Uhr",
+        "comments": 0,
+        "ressort": "Meine-Welt",
+        "author": "Marie Miedl-Rissner"
+    },
+    "Amazon Echo: Neue smarte Geraete fuer die eigenen vier Waende": {
+        "isPremium": false,
+        "date": "18. 5. 2023",
+        "time": "13:40 Uhr",
+        "comments": 1,
+        "ressort": "Panorama",
+        "author": "Thomas Nigl"
+    },
+    "Ambros und Steinbaecker finden die Homo-Ehe \"komplett cool\"": {
+        "isPremium": false,
+        "date": "18. 5. 2023",
+        "time": "13:03 Uhr",
+        "comments": 0,
+        "ressort": "Kultur",
+        "author": "Nora Bruckmueller"
+    },
+    "Bis zu 26 Grad: Es wird endlich waermer": {
+        "isPremium": false,
+        "date": "18. 5. 2023",
+        "time": "12:54 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "Erdogan-Kontrahent Kilicdaroglu will \"alle Fluechtlinge nach Hause schicken\"": {
+        "isPremium": false,
+        "date": "18. 5. 2023",
+        "time": "12:47 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Mann auf Moebelhaus-Parkplatz mit Messer bedroht": {
+        "isPremium": false,
+        "date": "18. 5. 2023",
+        "time": "11:26 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "nachrichten.at"
+    },
+    "Van der Bellen fuer oesterreichische Hilfe bei Entminung in Ukraine": {
+        "isPremium": false,
+        "date": "18. 5. 2023",
+        "time": "10:55 Uhr",
+        "comments": 5,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Erster US-Bundesstaat verbietet Tiktok": {
+        "isPremium": false,
+        "date": "18. 5. 2023",
+        "time": "10:45 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "Das grosse Testen": {
+        "isPremium": false,
+        "date": "18. 5. 2023",
+        "time": "10:20 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "Carsten Hebestreit"
+    },
+    "Wie eine Linzerin Chefin von 5000 \"Zooglern\" wurde": {
+        "isPremium": true,
+        "date": "18. 5. 2023",
+        "time": "10:01 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "Martin Roithner"
+    },
+    "Rafael Nadal erstmals seit 2005 nicht bei French Open am Start": {
+        "isPremium": false,
+        "date": "18. 5. 2023",
+        "time": "09:44 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "nachrichten.at/apa"
+    },
+    "Die Suche nach dem Prompt": {
+        "isPremium": true,
+        "date": "18. 5. 2023",
+        "time": "09:01 Uhr",
+        "comments": 0,
+        "ressort": "Meinung",
+        "author": "Barbara Eidenberger"
+    },
+    "Ukraine - Neue russische Angriffe mit Drohnen und Raketen": {
+        "isPremium": false,
+        "date": "18. 5. 2023",
+        "time": "09:01 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Fachhochschulen wollen nicht mehr Fachhochschulen heissen": {
+        "isPremium": false,
+        "date": "18. 5. 2023",
+        "time": "08:03 Uhr",
+        "comments": 1,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Billie Eilish und Jesse Rutherford haben sich getrennt": {
+        "isPremium": false,
+        "date": "unknown",
+        "time": "07:53 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "unknown"
+    },
+    "\"Gute Nachricht\": Getreide-Abkommen wird verlaengert": {
+        "isPremium": false,
+        "date": "18. 5. 2023",
+        "time": "07:51 Uhr",
+        "comments": 3,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Floridas Gouverneur DeSantis tritt bei US-Praesidentschaftswahlen an": {
+        "isPremium": false,
+        "date": "18. 5. 2023",
+        "time": "07:22 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Manchester City nach 4:0 gegen Real Madrid im CL-Finale": {
+        "isPremium": false,
+        "date": "17. 5. 2023",
+        "time": "23:02 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "nachrichten.at/apa"
+    },
+    "Rune besiegte im Rom-Viertelfinale Titelverteidiger Djokovic": {
+        "isPremium": false,
+        "date": "17. 5. 2023",
+        "time": "22:22 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "nachrichten.at/apa"
+    },
+    "Alliierte zoegerlich bei Kampfjet-Lieferung an Ukraine": {
+        "isPremium": false,
+        "date": "17. 5. 2023",
+        "time": "21:48 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Stadt Linz schnuert Antiteuerungspaket um 2,4 Millionen Euro": {
+        "isPremium": false,
+        "date": "17. 5. 2023",
+        "time": "21:27 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "nachrichten.at/linz"
+    },
+    "\"Kleines Pflaster auf grosser Wunde\": Lob und Kritik fuer Familien-Paket": {
+        "isPremium": false,
+        "date": "17. 5. 2023",
+        "time": "21:10 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
     "Anzeige wegen Verhetzung gegen Waldhaeusl: Keine Auslieferung": {
         "isPremium": false,
         "date": "17. 5. 2023",
@@ -38,14 +358,6 @@
         "comments": 0,
         "ressort": "Panorama",
         "author": "nachrichten.at/apa"
-    },
-    "Was heute wichtig war: Die Top-Meldungen am Mittwoch": {
-        "isPremium": false,
-        "date": "17. 5. 2023",
-        "time": "18:45 Uhr",
-        "comments": 0,
-        "ressort": "keine Angabe",
-        "author": "nachrichten.at"
     },
     "Schwere Unwetter in Norditalien: Zahl der Todesopfer steigt auf neun": {
         "isPremium": false,
@@ -102,14 +414,6 @@
         "comments": 0,
         "ressort": "Lokales",
         "author": "Mai 2023"
-    },
-    "Russisch-ukrainisches Getreide-Abkommen wird verlaengert": {
-        "isPremium": false,
-        "date": "17. 5. 2023",
-        "time": "16:52 Uhr",
-        "comments": 0,
-        "ressort": "Politik",
-        "author": "nachrichten.at/apa"
     },
     "Die jungen Wilden auf der Jagd nach wichtigen Punkten": {
         "isPremium": true,
@@ -503,6 +807,14 @@
         "ressort": "Politik",
         "author": "nachrichten.at/apa"
     },
+    "Der Nachrichtenueberblick am Feiertag": {
+        "isPremium": false,
+        "date": "18. 5. 2023",
+        "time": "18:45 Uhr",
+        "comments": 0,
+        "ressort": "keine Angabe",
+        "author": "nachrichten.at"
+    },
     "Ibiza-Video: NEOS kritisieren Luecken im Korruptionsstrafrecht": {
         "isPremium": false,
         "date": "17. 5. 2023",
@@ -631,6 +943,14 @@
         "ressort": "Kultur",
         "author": "Michael Schaefl"
     },
+    "Raetselhafte Algenplage im Traunsee beunruhigt die Fischer": {
+        "isPremium": true,
+        "date": "18. 5. 2023",
+        "time": "09:24 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Edmund Brandner"
+    },
     "Franz Huber wurde in 40 Jahren zum \"Mister Maidult\"": {
         "isPremium": false,
         "date": "17. 5. 2023",
@@ -670,6 +990,14 @@
         "comments": 0,
         "ressort": "Lokales",
         "author": "Gerald Winterleitner"
+    },
+    "Die Suche nach den Prompt": {
+        "isPremium": true,
+        "date": "18. 5. 2023",
+        "time": "09:01 Uhr",
+        "comments": 0,
+        "ressort": "Meinung",
+        "author": "Barbara Eidenberger"
     },
     "Kellerbuehne Puchheim trauert um ihren Gruender": {
         "isPremium": false,
@@ -727,6 +1055,14 @@
         "ressort": "Lokales",
         "author": "nachrichten.at"
     },
+    "Was heute wichtig war: Die Top-Meldungen am Mittwoch": {
+        "isPremium": false,
+        "date": "17. 5. 2023",
+        "time": "18:45 Uhr",
+        "comments": 0,
+        "ressort": "keine Angabe",
+        "author": "nachrichten.at"
+    },
     "Jeder Vierte in Oesterreich ist seit Corona einsamer": {
         "isPremium": false,
         "date": "16. 5. 2023",
@@ -739,6 +1075,14 @@
         "isPremium": false,
         "date": "16. 5. 2023",
         "time": "21:22 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Russisch-ukrainisches Getreide-Abkommen wird verlaengert": {
+        "isPremium": false,
+        "date": "17. 5. 2023",
+        "time": "16:52 Uhr",
         "comments": 0,
         "ressort": "Politik",
         "author": "nachrichten.at/apa"
