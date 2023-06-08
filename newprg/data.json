@@ -1,11 +1,2107 @@
 {
-    "Die aktuellen Meldungen am Montagabend": {
+    "Motorradlenker (54) bei Frontalkollision mit Auto toedlich verunglueckt": {
         "isPremium": false,
-        "date": "05. 6. 2023",
-        "time": "19:15 Uhr",
+        "date": "08. 6. 2023",
+        "time": "08:23 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "nachrichten.at/apa"
+    },
+    "Wie das Marschieren in der Musik Fuss gefasst hat": {
+        "isPremium": true,
+        "date": "08. 6. 2023",
+        "time": "08:00 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Marina Mayrboeck"
+    },
+    "Die wichtigsten Fragen und Antworten zum Champions-League-Finale": {
+        "isPremium": false,
+        "date": "08. 6. 2023",
+        "time": "07:58 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "nachrichten.at/apa"
+    },
+    "Kollision mit Pkw: Motorradlenker (47) blieb nach Unfall bewusstlos liegen": {
+        "isPremium": false,
+        "date": "08. 6. 2023",
+        "time": "07:28 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "nachrichten.at"
+    },
+    "West Ham gewann Finale der Conference League": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "23:10 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "nachrichten.at/apa"
+    },
+    "Feuer in Tiroler Bahntunnel: Nightjet evakuiert, 33 Verletzte": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "22:44 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "Grossschartner zeigte in Dauphine-Zeitfahren auf": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "22:26 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "nachrichten.at/apa"
+    },
+    "Rauch von Kanadas Waldbraenden truebt Himmel ueber New York": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "22:05 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "\"Es tut verdammt weh\": HC Linz verpasste Meistertitel": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "22:02 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "nachrichten.at/apa"
+    },
+    "Leon Sommer: \"Das Karriereziel ist, in Linz Eishockeyprofi zu werden\"": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "22:00 Uhr",
+        "comments": 0,
+        "ressort": "Nachrichten",
+        "author": "Markus Prinz"
+    },
+    "Oberflaeche der Weltmeere im Mai so warm wie nie zuvor": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "21:51 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "Ausschreitungen vor Conference-League-Finale in Prag": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "21:43 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "Papst Franziskus ist nach Operation \"wohlauf und scherzt\"": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "21:27 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "Autobus mit fehlendem Reifen auf der A1 gestoppt": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "21:10 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "OeGB setzt Wiener Ukraine-\"Friedensgipfel\" vor die Tuer": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "20:52 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Nova Rock: Skistar Dominik Paris \"war auf das nicht vorbereitet\"": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "20:30 Uhr",
+        "comments": 0,
+        "ressort": "Kultur",
+        "author": "nachrichten.at/apa"
+    },
+    "\"Vladimirs Vermaechtnis\": Orang-Utan-Baby in Schoenbrunn geboren": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "20:20 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "Zverev und Ruud komplettierten French-Open-Halbfinale": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "23:20 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "nachrichten.at/apa"
+    },
+    "\"Aus Langeweile\": Burschen verursachten 35.000 Euro Schaden": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "19:48 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "nachrichten.at"
+    },
+    "Hunderttausende Euro an Anlagebetrueger verloren": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "19:26 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "nachrichten.at"
+    },
+    "Feuerwehr rettete junge Linzerin von Balkon": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "19:01 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "nachrichten.at"
+    },
+    "Was heute wichtig war: Die Top-Meldungen am Mittwoch": {
+        "isPremium": false,
+        "date": "17. 5. 2023",
+        "time": "18:45 Uhr",
         "comments": 0,
         "ressort": "keine Angabe",
         "author": "nachrichten.at"
+    },
+    "Andrea Mayr kuerte sich zum 7. Mal zur Berglauf-Weltmeisterin": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "18:19 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "nachrichten.at/apa"
+    },
+    "SPOe-Parteitag soll im Spaetherbst stattfinden": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "18:07 Uhr",
+        "comments": 1,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "SPOe-Debakel: Die lustigsten Videos im Netz": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "17:54 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at (jup)"
+    },
+    "Lionel Messi wechselt zu Inter Miami in die USA": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "17:32 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "nachrichten.at/apa"
+    },
+    "99 Ideen fuer einen erfuellteren Alltag": {
+        "isPremium": false,
+        "date": "unknown",
+        "time": "17:03 Uhr",
+        "comments": 0,
+        "ressort": "Meine-Welt",
+        "author": "Juni 2023"
+    },
+    "Bildungsministerium liess Vorwuerfe um Linzer Digital-Uni pruefen": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "17:01 Uhr",
+        "comments": 1,
+        "ressort": "Politik",
+        "author": "nachrichten.at"
+    },
+    "\"Ich war viel leischen und habe Theater gespielt\"": {
+        "isPremium": true,
+        "date": "07. 6. 2023",
+        "time": "17:00 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Monika Raschhofer"
+    },
+    "Hilfe fuer Kinder mit Erdnussallergie": {
+        "isPremium": false,
+        "date": "unknown",
+        "time": "16:48 Uhr",
+        "comments": 0,
+        "ressort": "Meine-Welt",
+        "author": "Juni 2023"
+    },
+    "Schwerer Unfall im Innviertel: \"Ich habe ihre Hand gehalten, bis der Notarzt kam\"": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "16:30 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Judith Pointner"
+    },
+    "Die Konsumdialoge in Steyr schaerfen den Blick fuer die Zukunft der Lebensmittel": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "16:00 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Gerald Winterleitner"
+    },
+    "Ungeduldiger Tiroler wollte Bankfiliale anzuenden": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "15:45 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "Fabasoft erzielte 2022/23 mehr Umsatz, aber weniger Gewinn": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "15:39 Uhr",
+        "comments": 0,
+        "ressort": "Wirtschaft",
+        "author": "nachrichten.at"
+    },
+    "Grosseinsatz in Fraham: Feuer in Tischlerei ausgebrochen": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "15:05 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "nachrichten.at"
+    },
+    "Klimabonus 2023: So kommen Sie heuer zu Ihrem Geld": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "15:05 Uhr",
+        "comments": 0,
+        "ressort": "Wirtschaft",
+        "author": "nachrichten.at/apa"
+    },
+    "Ermittlungen gegen Lead Horizon-Gruender eingestellt": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "14:40 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "Black Wings geraten bei Dauerkarten-Aktion an Kapazitaetsgrenze": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "14:39 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "Markus Prinz"
+    },
+    "ServusTV stellt linearen Sendebetrieb in Deutschland ein": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "14:22 Uhr",
+        "comments": 0,
+        "ressort": "Kultur",
+        "author": "nachrichten.at/apa"
+    },
+    "Suesser Nachwuchs im Linzer Zoo": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "14:17 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "nachrichten.at/apa"
+    },
+    "voestalpine sieht sich fuer Transformation gut aufgestellt": {
+        "isPremium": true,
+        "date": "07. 6. 2023",
+        "time": "14:06 Uhr",
+        "comments": 0,
+        "ressort": "Wirtschaft",
+        "author": "Sigrid Brandstaetter"
+    },
+    "Vermisstenfall in Spanien nach Leichenfund vor Aufklaerung": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "14:03 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "Kika/Leiner will kommende Woche Insolvenzverfahren anmelden": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "13:39 Uhr",
+        "comments": 0,
+        "ressort": "Wirtschaft",
+        "author": "nachrichten.at/apa"
+    },
+    "Das Wetter bleibt bis Montag wechselhaft, aber warm": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "13:19 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "voestalpine 2022/23: Rekorde bei absoluten Zahlen, aber nicht in den Gewinnmargen": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "13:18 Uhr",
+        "comments": 0,
+        "ressort": "Wirtschaft",
+        "author": "nachrichten.at/apa"
+    },
+    "Die luxurioesen Reisen\u00a0der Lamberg-Werndls": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "12:57 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Gerald Winterleitner"
+    },
+    "Der Dammbruch in der Ukraine und seine Folgen": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "12:46 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "Doskozil wird sich fuer die SPOe auf Bundesebene nicht mehr engagieren": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "12:36 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "OOeN-Leser wollen Krebspatienten helfen": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "12:30 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Roman Kloibhofer"
+    },
+    "Zerstoerung von Staudamm: 40.000 Menschen von Ueberschwemmungen betroffen": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "12:03 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "SPOe: Christian Sapetschnig wird interimistischer Leiter der Bundeszentrale": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "11:39 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Niederoesterreicherin verheimlichte den Tod ihres Kindes 18 Jahre lang": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "11:39 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "\"Die redet an Bloedsinn\": Petzner reagierte auf Verurteilung wie ein trotziges Kind": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "11:36 Uhr",
+        "comments": 5,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "Eine Nacht der suessen Koestlichkeiten": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "11:30 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "nachrichten.at/linz"
+    },
+    "Nova Rock startet mit Regen und Verschiebungen": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "11:11 Uhr",
+        "comments": 1,
+        "ressort": "Kultur",
+        "author": "nachrichten.at/apa"
+    },
+    "Darm-OP unter Vollnarkose: Papst Franziskus muss ins Krankenhaus": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "10:43 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "Die drei haeufigsten Herzleiden": {
+        "isPremium": true,
+        "date": "07. 6. 2023",
+        "time": "10:07 Uhr",
+        "comments": 0,
+        "ressort": "Meine-Welt",
+        "author": "Barbara Rohrhofer"
+    },
+    "Mehr als 100.000 Teilzeitbeschaeftigte wuerden gerne mehr arbeiten": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "10:04 Uhr",
+        "comments": 0,
+        "ressort": "Wirtschaft",
+        "author": "nachrichten.at/apa"
+    },
+    "Einbrecher legten in Leondinger Jugendzentrum Feuer": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "09:52 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "nachrichten.at"
+    },
+    "Team 7: Sohn von Emprechtinger ist jetzt Geschaeftsfuehrer": {
+        "isPremium": true,
+        "date": "07. 6. 2023",
+        "time": "04:00 Uhr",
+        "comments": 0,
+        "ressort": "Wirtschaft",
+        "author": "Alexander Zens"
+    },
+    "Gericht hat entschieden: Fussweg zu Badeplatz ist wieder frei": {
+        "isPremium": true,
+        "date": "unknown",
+        "time": "04:45 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Juni 2023 04:45 Uhr"
+    },
+    "OeBB muessen bei Verspaetungen durch Notfaelle nicht mehr zahlen": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "09:04 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "Zwei Neue und 1900 Jobs weniger": {
+        "isPremium": true,
+        "date": "07. 6. 2023",
+        "time": "08:52 Uhr",
+        "comments": 0,
+        "ressort": "Meinung",
+        "author": "Barbara Rohrhofer"
+    },
+    "Neuer Kika/Leiner-Eigentuemer prueft Insolvenz-Option": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "08:47 Uhr",
+        "comments": 4,
+        "ressort": "Wirtschaft",
+        "author": "nachrichten.at/apa"
+    },
+    "Thomas Philipp: Er liebt Grauzonen und Randbereiche": {
+        "isPremium": true,
+        "date": "07. 6. 2023",
+        "time": "08:30 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Herbert Schorn"
+    },
+    "Selbst gepflueckt oder in der Tasse: Die Erdbeersaison 2023 ist eroeffnet": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "08:00 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Valentin Bayer"
+    },
+    "Babler: OeVP \"muss sich wieder koalitionsfaehig machen\"": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "07:49 Uhr",
+        "comments": 2,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Staudamm-Katastrophe in der Ukraine: Was wir wissen - und was nicht": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "07:41 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Ewald Humenberger: \"Das ist machbar fuer den HC Linz\"": {
+        "isPremium": true,
+        "date": "07. 6. 2023",
+        "time": "07:36 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "Reinhold Puehringer"
+    },
+    "Republikaner Christie stieg in Rennen um das Weisse Haus ein": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "07:33 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Bis es heisst: \"Wasser Marsch!\" \u2013 So laeuft der Landesfeuerwehrbewerb": {
+        "isPremium": true,
+        "date": "07. 6. 2023",
+        "time": "07:30 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Magdalena Lagetar"
+    },
+    "\"Visto im Garten\": Andorfer Lokal treibt die Vergroesserung weiter voran": {
+        "isPremium": true,
+        "date": "07. 6. 2023",
+        "time": "07:00 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Valentin Berghammer"
+    },
+    "Nervenkrankheit ALS von klebrigen Proteinen ausgeloest": {
+        "isPremium": false,
+        "date": "unknown",
+        "time": "06:58 Uhr",
+        "comments": 0,
+        "ressort": "Meine-Welt",
+        "author": "Juni 2023"
+    },
+    "Innviertler Profi-Gastronomin eroeffnet neues Restaurant": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "06:56 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Thomas Streif"
+    },
+    "EU plant laut Bericht eine Waermepumpen-Pflicht": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "06:37 Uhr",
+        "comments": 0,
+        "ressort": "Wirtschaft",
+        "author": "nachrichten.at/apa"
+    },
+    "Warum Babys als \"alterzentrisch\" bezeichnet werden koennen": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "06:34 Uhr",
+        "comments": 0,
+        "ressort": "Meine-Welt",
+        "author": "nachrichten.at/apa"
+    },
+    "Zwei Tote nach Schuessen bei Highschool-Abschlussfeier": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "06:25 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "Borealis: Duengemittel-Deal vor Abschluss": {
+        "isPremium": true,
+        "date": "07. 6. 2023",
+        "time": "06:15 Uhr",
+        "comments": 0,
+        "ressort": "Wirtschaft",
+        "author": "Sigrid Brandstaetter"
+    },
+    "Luther-Platz-Projekt: Kirche zweifelt an Stadt": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "06:11 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Reinhold Gruber"
+    },
+    "Gibt es Corona noch, Herr Professor Lamprecht?": {
+        "isPremium": true,
+        "date": "07. 6. 2023",
+        "time": "06:00 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Gerhild Niedoba"
+    },
+    "AHS-Matura: Weniger Fuenfer in Mathematik": {
+        "isPremium": true,
+        "date": "unknown",
+        "time": "05:40 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Juni 2023 05:40 Uhr"
+    },
+    "SPOe auf Spurensuche: Wie es zu der Auszaehlungspanne kam": {
+        "isPremium": true,
+        "date": "07. 6. 2023",
+        "time": "05:15 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "Annette Gantner"
+    },
+    "Fritz Egger: Der Theatermacher von Meggenhofen": {
+        "isPremium": true,
+        "date": "07. 6. 2023",
+        "time": "04:30 Uhr",
+        "comments": 0,
+        "ressort": "Kultur",
+        "author": "Peter Grubmueller"
+    },
+    "Wer steckt hinter der Zerstoerung des Kachowka-Staudamms?": {
+        "isPremium": true,
+        "date": "07. 6. 2023",
+        "time": "04:30 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "Dmytro Durnjew"
+    },
+    "Nach Krisenjahren haben die Thermen wieder Oberwasser": {
+        "isPremium": true,
+        "date": "07. 6. 2023",
+        "time": "04:30 Uhr",
+        "comments": 0,
+        "ressort": "Wirtschaft",
+        "author": "Martin Roithner"
+    },
+    "Kuehbauers Abloese: Der LASK mit Mut zum Risiko": {
+        "isPremium": true,
+        "date": "07. 6. 2023",
+        "time": "04:30 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "Guenther Mayrhofer"
+    },
+    "Vom \"Traeumer\" zum SP-Vorsitzenden": {
+        "isPremium": true,
+        "date": "07. 6. 2023",
+        "time": "04:30 Uhr",
+        "comments": 0,
+        "ressort": "Meinung",
+        "author": "Markus Staudinger"
+    },
+    "Was bei Rueckenschmerzen wirklich hilft": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "04:30 Uhr",
+        "comments": 0,
+        "ressort": "Meine-Welt",
+        "author": "Barbara Rohrhofer"
+    },
+    "Luger zweifelt an der Sinnhaftigkeit von Mitgliedervoten": {
+        "isPremium": true,
+        "date": "unknown",
+        "time": "04:30 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "Juni 2023 04:30 Uhr"
+    },
+    "Die rote Kathedrale": {
+        "isPremium": true,
+        "date": "07. 6. 2023",
+        "time": "04:00 Uhr",
+        "comments": 0,
+        "ressort": "Meinung",
+        "author": "Lucian Mayringer"
+    },
+    "Neuromed-Campus: Neubau in Linz feiert 20. Geburtstag": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "03:35 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "OOeN"
+    },
+    "Donau OOe zieht erste erfolgreiche Zwischenbilanz": {
+        "isPremium": true,
+        "date": "07. 6. 2023",
+        "time": "03:00 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Valentin Berghammer"
+    },
+    "Bezirksgericht: VP will kein Geld mehr zurueckfordern": {
+        "isPremium": true,
+        "date": "07. 6. 2023",
+        "time": "02:25 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Hannes Fehringer"
+    },
+    "EU-Wahl: In Oesterreich noch nicht \"wichtig\"": {
+        "isPremium": true,
+        "date": "07. 6. 2023",
+        "time": "02:09 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "Heinz Steinbock"
+    },
+    "EU: Sanktionen gegen politische Einmischung": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "01:50 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "OOeN"
+    },
+    "Conference-League-Finale: Fuer wen endet die Durststrecke?": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "01:45 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "OOeN"
+    },
+    "Ueberraschungen und \"enge Kisten\" vor dem Finale": {
+        "isPremium": true,
+        "date": "07. 6. 2023",
+        "time": "01:30 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Elisabeth Ertl"
+    },
+    "Nach Abstieg: Steyr muss radikal den Sparstift ansetzen": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "00:55 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "Raphael Watzinger"
+    },
+    "Lions-Praesident startet laufend in seine Amtszeit": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "00:21 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "OOeN"
+    },
+    "Gesundes Programm": {
+        "isPremium": false,
+        "date": "unknown",
+        "time": "00:04 Uhr",
+        "comments": 0,
+        "ressort": "Meine-Welt",
+        "author": "Juni 2023"
+    },
+    "Diabetesvorsorge dient auch der Demenzverhuetung": {
+        "isPremium": false,
+        "date": "unknown",
+        "time": "00:04 Uhr",
+        "comments": 0,
+        "ressort": "Meine-Welt",
+        "author": "Juni 2023"
+    },
+    "Einfach nur kaputt": {
+        "isPremium": true,
+        "date": "07. 6. 2023",
+        "time": "00:04 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "Heidi Riepl"
+    },
+    "Falscher Frieden": {
+        "isPremium": true,
+        "date": "07. 6. 2023",
+        "time": "00:04 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Hannes Fehringer"
+    },
+    "Feuer in Tiroler Bahntunnel: Nightjet evakuiert": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "22:44 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "Musiktheater: TanzLinz laedt zu seiner \"Traumzeit\"": {
+        "isPremium": false,
+        "date": "unknown",
+        "time": "00:01 Uhr",
+        "comments": 0,
+        "ressort": "Kultur",
+        "author": "Juni 2023"
+    },
+    "Feuer in Bahntunnel: Nightjet evakuiert": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "22:44 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "Alexander Zverev dritter Halbfinalist der French Open": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "20:01 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "nachrichten.at/apa"
+    },
+    "Podcast: Die Suche nach dem Glueck": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "00:00 Uhr",
+        "comments": 0,
+        "ressort": "Meine-Welt",
+        "author": "OOeN"
+    },
+    "Eine Hommage an die Lebenshelfer auf vier Pfoten": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "23:15 Uhr",
+        "comments": 0,
+        "ressort": "Meinung",
+        "author": "Karin Schuetze"
+    },
+    "Handball: HC Linz verpasste Meistertitel": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "22:02 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "nachrichten.at/apa"
+    },
+    "Killerwal-Attacken auf Segler haeufen sich": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "21:55 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "1200 Gaeste schauten sich das neue Maschinenring-Buero an": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "21:55 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Martin Dunst"
+    },
+    "Koehlmeier im Literaturschiff in Aschach": {
+        "isPremium": false,
+        "date": "unknown",
+        "time": "21:28 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Juni 2023"
+    },
+    "Djokovics \"Mission 23\" nach Startproblemen auf Schiene": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "21:25 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "OOeN"
+    },
+    "Oesterreichischer Wirtschaftsverlag ist insolvent": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "21:14 Uhr",
+        "comments": 0,
+        "ressort": "Wirtschaft",
+        "author": "nachrichten.at/apa"
+    },
+    "Papst bleibt nach Operation einige Tage im Spital": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "18:38 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "Mehr Faelle von Guertelrose durch Alterung": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "21:14 Uhr",
+        "comments": 0,
+        "ressort": "Meine-Welt",
+        "author": "OOeN"
+    },
+    "Ist die Arktis schon in 2030er Jahren eisfrei?": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "21:10 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "OOeN/APA"
+    },
+    "\"Die stumme Serenade\": Zwischen feiner Genialitaet und plumper Banalitaet": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "21:01 Uhr",
+        "comments": 0,
+        "ressort": "Kultur",
+        "author": "Michael Wruss"
+    },
+    "Scheidungsgeruechte um Meghan und Harry": {
+        "isPremium": false,
+        "date": "unknown",
+        "time": "20:48 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "unknown"
+    },
+    "Der naechste Prozess gegen Nawalny": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "20:40 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "OOeN/APA"
+    },
+    "USA: Ursache fuer Damm-Zerstoerung nicht abschliessend klar": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "20:34 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "Freigelassene Oesterreicher: Heftige Kritik an Gefangenenaustausch": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "20:31 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Ringen um Fernwaermetarif": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "20:20 Uhr",
+        "comments": 0,
+        "ressort": "Wirtschaft",
+        "author": "OOeN/az"
+    },
+    "Leiner verschwindet aus Oberoesterreich": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "20:10 Uhr",
+        "comments": 43,
+        "ressort": "Wirtschaft",
+        "author": "Alexander Zens"
+    },
+    "Neue bulgarische Regierung von Parlament bestaetigt": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "20:09 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Das sind die wichtigsten Meldungen am Mittwoch": {
+        "isPremium": false,
+        "date": "24. 5. 2023",
+        "time": "07:01 Uhr",
+        "comments": 0,
+        "ressort": "keine Angabe",
+        "author": "nachrichten.at"
+    },
+    "\"Weidmannsheil\" zur Jagdpruefung: So laeuft die \"gruene Matura\"": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "19:55 Uhr",
+        "comments": 0,
+        "ressort": "Meinung",
+        "author": "Karoline Ploberger"
+    },
+    "\"Analyse der Lage\": So laeuft das erste SPOe-Praesidium mit Babler als Parteichef": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "17:21 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Fiskalrat fordert mehr Geld fuer Klimaschutz": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "19:33 Uhr",
+        "comments": 0,
+        "ressort": "Wirtschaft",
+        "author": "nachrichten.at/apa"
+    },
+    "Bildungsministerium liess Vorwuerfe rund um Linzer Digital-Uni pruefen": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "17:01 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at"
+    },
+    "Schauspieler Gooding Jr. einigte sich mit Klaegerin aussergerichtlich": {
+        "isPremium": false,
+        "date": "unknown",
+        "time": "19:27 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "unknown"
+    },
+    "Eine Anleitung zum \"Mittsommer-Feiern\"": {
+        "isPremium": false,
+        "date": "unknown",
+        "time": "19:20 Uhr",
+        "comments": 0,
+        "ressort": "Meine-Welt",
+        "author": "Juni 2023"
+    },
+    "Thomas Sageder: Oliver Glasners \"Nachbar\"": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "19:20 Uhr",
+        "comments": 0,
+        "ressort": "Meinung",
+        "author": "Harald Bartl"
+    },
+    "Nach Annaeherung an Saudi-Arabien - Iran eroeffnet Botschaft in Riad": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "19:12 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Der Hort St. Margarethen sperrt wieder auf": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "19:04 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "nachrichten.at/linz"
+    },
+    "Milliardengewinn: voestalpine praesentiert Rekordergebnis": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "19:00 Uhr",
+        "comments": 1,
+        "ressort": "Wirtschaft",
+        "author": "Dietmar Mascher"
+    },
+    "\"Unsere freiwilligen Helfer brauchen eine professionelle Begleitung\"": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "18:55 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Robert Stammler"
+    },
+    "Besserer Zugang zu Finanzinformationen fuer Behoerden in EU": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "18:49 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Und manchmal fluestert sie leise": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "18:45 Uhr",
+        "comments": 0,
+        "ressort": "Meinung",
+        "author": "Edmund Brandner"
+    },
+    "Fuenf Laender in den UNO-Sicherheitsrat gewaehlt - Belarus scheitert": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "18:43 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Medien: USA lagen ukrainische Plaene fuer Angriff auf Nord Stream vor": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "18:20 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Grosser Gesundheitstag bei den OOeN": {
+        "isPremium": false,
+        "date": "unknown",
+        "time": "18:16 Uhr",
+        "comments": 0,
+        "ressort": "Meine-Welt",
+        "author": "Juni 2023"
+    },
+    "Beim Schlossgraben-Grand-Prix hatten die Jungen die Nase vorne": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "18:08 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "OOeN"
+    },
+    "Gruenes Licht fuer Medikamenten-Abholstation": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "17:52 Uhr",
+        "comments": 0,
+        "ressort": "Meine-Welt",
+        "author": "nachrichten.at/apa"
+    },
+    "Pro & Contra: Warnhinweise auf Alkohol?": {
+        "isPremium": true,
+        "date": "unknown",
+        "time": "17:45 Uhr",
+        "comments": 0,
+        "ressort": "Meinung",
+        "author": "Juni 2023 17:45 Uhr"
+    },
+    "Linzer Berufsfeuerwehr musste zwoelf Mal pro Tag ausruecken": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "17:43 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Christian Diabl"
+    },
+    "Saison 2023/24: Freier Eintritt bei Abo-Theatervorstellungen in Wels": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "17:40 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Valentin Bayer"
+    },
+    "Claudia Jaeger wird NEOS-Bundesgeschaeftsfuehrerin": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "17:39 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Schuesse auf Tauben: Grosseinsatz der Cobra in Dietach": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "17:33 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "nachrichten.at/kran"
+    },
+    "Vogerl und Hunderl": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "17:32 Uhr",
+        "comments": 0,
+        "ressort": "Meinung",
+        "author": "Peter Grubmueller"
+    },
+    "Moewen attackierten Polizeidrohne": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "17:24 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "Vorwuerfe gegen Till Lindemann: Rammstein geht Causa selbst nach": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "16:56 Uhr",
+        "comments": 0,
+        "ressort": "Kultur",
+        "author": "nachrichten.at/apa"
+    },
+    "Experte erklaert, wie man fit wird - und bleibt": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "16:56 Uhr",
+        "comments": 0,
+        "ressort": "Meine-Welt",
+        "author": "Valerie Hader"
+    },
+    "Ludwig wuenscht sich aktive Rolle Doskozils": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "09:49 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Golf: PGA, World Tour und LIV Series beschlossen Fusion": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "16:38 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "nachrichten.at/apa"
+    },
+    "SPOe: Christian Sapetschnig wird interimistischer Leiter in der Loewelstrasse": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "11:19 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Borussia Moenchengladbach stellt neuen Trainer vor": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "16:33 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "OOeN-Sport/APA"
+    },
+    "Anti-Betrugsbehoerde: Knapp 430 Millionen Euro EU-Geld missbraucht": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "16:22 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Prozess: Stefan Petzner soll sich Arbeitslosengeld erschlichen haben": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "10:19 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "Traun bekommt einen Jugendbeirat": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "15:56 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "nachrichten.at/linz"
+    },
+    "Darmkrebs: Screening senkt Zahl der Todesfaelle": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "15:17 Uhr",
+        "comments": 0,
+        "ressort": "Meine-Welt",
+        "author": "OOeN"
+    },
+    "SPOe-Chef Andreas Babler: Ordentlicher Parteitag wird auf Herbst vorgezogen": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "15:01 Uhr",
+        "comments": 7,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Vizerektorin Gerda Mueller uebernimmt interimistisch Leitung des Reinhardt-Seminars": {
+        "isPremium": false,
+        "date": "unknown",
+        "time": "14:46 Uhr",
+        "comments": 0,
+        "ressort": "Kultur",
+        "author": "Juni 2023"
+    },
+    "Erfolgreiche Premiere bei Schwimmmeisterschaft": {
+        "isPremium": false,
+        "date": "unknown",
+        "time": "14:36 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "OOeN"
+    },
+    "\"Bisswunden von Haustieren werden oft unterschaetzt\"": {
+        "isPremium": true,
+        "date": "unknown",
+        "time": "14:32 Uhr",
+        "comments": 0,
+        "ressort": "Meine-Welt",
+        "author": "Juni 2023 14:32 Uhr"
+    },
+    "Stimmen erneut ausgezaehlt - Babler als SPOe-Bundesparteivorsitzender bestaetigt": {
+        "isPremium": false,
+        "date": "unknown",
+        "time": "14:16 Uhr",
+        "comments": 12,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Stelzer: Keine vorgezogenen Wahlen": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "14:14 Uhr",
+        "comments": 1,
+        "ressort": "Politik",
+        "author": "Wolfgang Braun"
+    },
+    "Schon frueher gab es Wirbel um Michaela Grubesa": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "13:46 Uhr",
+        "comments": 1,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Das schmutzige Geschaeft mit den Babys": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "13:34 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "Renate Stockinger"
+    },
+    "Prinz Harry macht Boulevardpresse schwere Vorwuerfe": {
+        "isPremium": false,
+        "date": "unknown",
+        "time": "13:29 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "unknown"
+    },
+    "So tickt der neue LASK-Trainer": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "13:11 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "Harald Bartl"
+    },
+    "Das ist der OeFB-Teamkader fuer die naechsten EM-Quali-Spiele": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "13:09 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "nachrichten.at/apa"
+    },
+    "Muell fuer die \"Haie\", nicht fuer die Strasse": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "12:54 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "nachrichten.at/linz"
+    },
+    "Stimmen falsch zugeordnet: OeH-Wahl wird angefochten": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "12:41 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Grubesa als Leiterin der SPOe-Wahlkommission zurueckgetreten": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "12:30 Uhr",
+        "comments": 3,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Gendermedizin: Warum Frauen keine kleinen Maenner sind": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "12:06 Uhr",
+        "comments": 0,
+        "ressort": "Meine-Welt",
+        "author": "Barbara Rohrhofer"
+    },
+    "LASK trennt sich von Kuehbauer - Nachfolger steht bereits fest": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "12:05 Uhr",
+        "comments": 7,
+        "ressort": "Sport",
+        "author": "nachrichten.at"
+    },
+    "Drama am letzten Spieltag: Wo es im Unterhaus am Wochenende spannend wird": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "11:48 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "Norbert Koenig-Felleitner"
+    },
+    "29-Jaehrige erfuellt sich mit eigenem Lokal einen Lebenstraum": {
+        "isPremium": false,
+        "date": "07. 6. 2023",
+        "time": "06:00 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Thomas Streif"
+    },
+    "Die Top-Meldungen am Dienstagabend": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "18:39 Uhr",
+        "comments": 0,
+        "ressort": "keine Angabe",
+        "author": "nachrichten.at"
+    },
+    "Raika Perg wandelt sechs Filialen in Beratungsbueros um": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "12:00 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Bernhard Leitner"
+    },
+    "Muellautos sichern Jobs bei Steyr Automotive": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "11:30 Uhr",
+        "comments": 0,
+        "ressort": "Wirtschaft",
+        "author": "nachrichten.at/apa"
+    },
+    "Unbekannter Taeter stahl 1900 Pfingstrosen in Haid": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "11:22 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "nachrichten.at"
+    },
+    "Maibaumdiebe wurden im Kaefig herangekarrt": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "11:17 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Franz Putz"
+    },
+    "\"Wir stellen uns auf eine laengere Flaute in der Bauwirtschaft ein\"": {
+        "isPremium": false,
+        "date": "unknown",
+        "time": "11:14 Uhr",
+        "comments": 1,
+        "ressort": "Wirtschaft",
+        "author": "Juni 2023"
+    },
+    "Mike Pence: Geburtstagskerzen und eine Kampfansage an frueheren Chef": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "10:37 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Batteriespezialist Banner erreicht wieder Vorkrisenniveau": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "10:35 Uhr",
+        "comments": 0,
+        "ressort": "Wirtschaft",
+        "author": "nachrichten.at"
+    },
+    "Hagenberg: Dachstuhlbrand im Ortszentrum": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "10:08 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "nachrichten.at"
+    },
+    "Polizei konnte Betruegerin im Innviertel festnehmen": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "09:58 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "nachrichten.at"
+    },
+    "Thema des Tages: Braucht es einen neuen SPOe-Parteitag?": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "09:54 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at"
+    },
+    "Kachowka-Staudamm in Region Cherson zerstoert: Evakuierungen laufen": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "09:25 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "Legionellen: Linz sperrte Duschen im Neuen Rathaus": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "09:16 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "nachrichten.at/apa"
+    },
+    "Zverev ueber Umgang mit Diabetes: \"Muss klare Struktur geben\"": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "09:13 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "nachrichten.at/apa"
+    },
+    "Madlener ist nicht mehr Vorwaerts-Trainer: Wird Zauner sein Nachfolger?": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "09:02 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Gerald Winterleitner"
+    },
+    "SPOe - wenn  das Lachen im Hals stecken bleibt": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "08:52 Uhr",
+        "comments": 0,
+        "ressort": "Meinung",
+        "author": "Markus Staudinger"
+    },
+    "Mit der \"blauen Wand\" soll dem HC Linz die Revanche gelingen": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "08:36 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "Reinhold Puehringer"
+    },
+    "\"Wie dOeSIg sind die denn?\" - Internationale Pressestimmen zum SPOe-Wahlchaos": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "08:27 Uhr",
+        "comments": 2,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Auch neues Ergebnis seltsam: SPOe zaehlt nach Wahlchaos nochmal aus": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "07:44 Uhr",
+        "comments": 7,
+        "ressort": "Politik",
+        "author": "nachrichten.at/luc/apa"
+    },
+    "Michael Hofko: Ein Primar mit einem gutem Plan": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "07:04 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Valerie Hader"
+    },
+    "\"Das ist einer der schlimmsten Tage fuer die Sozialdemokratie\"": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "06:46 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at"
+    },
+    "\"Peinlich, Kasperltheater, Blamage\": Reaktionen von der SP-Basis": {
+        "isPremium": true,
+        "date": "unknown",
+        "time": "06:04 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "Juni 2023 06:04 Uhr"
+    },
+    "LASK hat  einen deutschen Pokalsieger im Visier": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "06:00 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "Guenther Mayrhofer"
+    },
+    "Thomas Reifeltshammer: \u201eManchmal hatte es schon etwas von Stammtisch\u201c": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "05:57 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "Harald Bartl"
+    },
+    "Touristen sollen Freizeitaktivitaeten per Handy buchen": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "05:51 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Gerhild Niedoba"
+    },
+    "Lieferkettengesetz: \"Der groesste Quatsch, der je beschlossen wurde\"": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "05:21 Uhr",
+        "comments": 0,
+        "ressort": "Wirtschaft",
+        "author": "Dietmar Mascher"
+    },
+    "OOeN-Konzertsommer: Johnny Depp kehrt mit 60 auf die Burg Clam zurueck": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "05:17 Uhr",
+        "comments": 0,
+        "ressort": "Kultur",
+        "author": "Peter Grubmueller"
+    },
+    "Ayurveda: Wissen vom langen Leben": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "05:11 Uhr",
+        "comments": 0,
+        "ressort": "Meine-Welt",
+        "author": "Valerie Hader"
+    },
+    "Kika/Leiner: Es geht um 650 Jobs in Oberoesterreich": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "05:09 Uhr",
+        "comments": 0,
+        "ressort": "Wirtschaft",
+        "author": "Alexander Zens"
+    },
+    "\"Das ist nur noch peinlich\": Chaos nach verzaehlter Wahl": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "05:04 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Gary Sperrer"
+    },
+    "Das grosse Zittern um den Machlanddamm": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "04:59 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Bernhard Leitner"
+    },
+    "Vorlaeufige Sperre: Alpenblick muss saniert werden": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "04:37 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Thomas Fellhofer"
+    },
+    "\"Sicherheit auf der Strasse ist das hoechste Gut\"": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "04:21 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Karoline Ploberger"
+    },
+    "Gesundheitstour: Rueckenschmerzen effektiv behandeln": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "04:13 Uhr",
+        "comments": 0,
+        "ressort": "Meine-Welt",
+        "author": "OOeN"
+    },
+    "YouTube fuehrt Abo-TV-Kanaele in Deutschland ein": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "04:04 Uhr",
+        "comments": 0,
+        "ressort": "Kultur",
+        "author": "OOeN"
+    },
+    "Polen verliert endgueltig vor dem EuGH: Justizreform widerspricht Unionsrecht": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "03:59 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "Heinz Steinbock"
+    },
+    "Heidi Lackner: \"Kunst als Beruf war fuer mich unvorstellbar\"": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "03:54 Uhr",
+        "comments": 0,
+        "ressort": "Kultur",
+        "author": "Peter Grubmueller"
+    },
+    "\"Blut ist bei Notfaellen die wichtigste Medikation\"": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "03:47 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "OOeN"
+    },
+    "Die Welser Parks werden ab naechster Woche wieder zu Sportplaetzen": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "03:26 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Valentin Bayer"
+    },
+    "Zwei sonntaegige Laufklassiker im Salzkammergut": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "03:11 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "OOeN"
+    },
+    "\"Man sollte Ehrenamtlichen nicht das Schreiben von Dienstplaenen aufbuerden\"": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "03:07 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "OOeN"
+    },
+    "Um Gottes willen! \"Aber es ist eigentlich nur noch peinlich\"": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "03:04 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Hannes Fehringer"
+    },
+    "Ermittlungsverfahren gegen Ex-Buergermeister eingestellt": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "02:48 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Thomas Streif"
+    },
+    "Debatte um Schulbeginn: Behoerde haelt sich heraus": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "02:31 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Erik Famler"
+    },
+    "Arbeitslosenquote im Bezirk Ried bei 2,7 Prozent": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "02:27 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "OOeN"
+    },
+    "Naturparkschueler greifen Voegeln unter die Fluegel": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "02:04 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "OOeN"
+    },
+    "Ukraine meldet Vormarsch bei Bachmut": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "01:54 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "OOeN"
+    },
+    "Wirtschaftsroas mit kubanischem Flair": {
+        "isPremium": true,
+        "date": "unknown",
+        "time": "01:51 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Juni 2023 01:51 Uhr"
+    },
+    "Beste Nachwuchskletterer Oesterreichs in Gaflenz": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "01:43 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "OOeN"
+    },
+    "Milliardengewinn: voestalpine praesentiert morgen Rekordergebnis": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "19:00 Uhr",
+        "comments": 0,
+        "ressort": "Wirtschaft",
+        "author": "Dietmar Mascher"
+    },
+    "Kahlschlag bei Kika/Leiner: 23 Filialen schiessen, 1900 Mitarbeiter werden gekuendigt": {
+        "isPremium": false,
+        "date": "unknown",
+        "time": "13:17 Uhr",
+        "comments": 2,
+        "ressort": "Wirtschaft",
+        "author": "Alexander Zens"
+    },
+    "Hoeller will in Sedlcany den ersten Saisonsieg": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "01:37 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "OOeN"
+    },
+    "Duell der Zwillingsschwestern ging an Julia Windhager": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "01:33 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "OOeN"
+    },
+    "Arbeitskosten steigen besonders stark": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "01:27 Uhr",
+        "comments": 0,
+        "ressort": "Wirtschaft",
+        "author": "Alexander Zens"
+    },
+    "\"Einfach Leben retten\": Vier Kurse in Grieskirchen": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "01:11 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "OOeN"
+    },
+    "\"Totales Fuehrungsversagen \u2013 gut, dass dieser Wahnsinn nun ein Ende hat\"": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "01:04 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Thomas Fellhofer"
+    },
+    "Fortschritte bei Beislrettung in der Pernau": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "00:48 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "OOeN"
+    },
+    "Kammer mit erstem Nachhaltigkeitstag": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "00:41 Uhr",
+        "comments": 0,
+        "ressort": "Wirtschaft",
+        "author": "Verena Mitterlechner"
+    },
+    "Irische Ikone": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "00:37 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "OOeN"
+    },
+    "Totalsperre der Innkreisautobahn": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "00:21 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "OOeN"
+    },
+    "Seiler & Speer sind am 10. Juni in Passau zu Gast": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "00:13 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "OOeN"
+    },
+    "Verpflichtende Reservierungen fuer Badeseen?": {
+        "isPremium": true,
+        "date": "unknown",
+        "time": "00:08 Uhr",
+        "comments": 0,
+        "ressort": "Meinung",
+        "author": "Juni 2023 00:08 Uhr"
+    },
+    "Der ganz normale Wahnsinn": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "00:04 Uhr",
+        "comments": 0,
+        "ressort": "Meinung",
+        "author": "Wolfgang Braun"
+    },
+    "Was es kostet": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "00:04 Uhr",
+        "comments": 0,
+        "ressort": "Wirtschaft",
+        "author": "Dietmar Mascher"
+    },
+    "Kein Bankomat": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "00:04 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "Heidi Riepl"
+    },
+    "Ewald Tatar: Der Festival-Tatar": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "00:04 Uhr",
+        "comments": 0,
+        "ressort": "Meinung",
+        "author": "Helmut Atteneder"
+    },
+    "Reden wir ueber Studiengebuehren": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "00:04 Uhr",
+        "comments": 0,
+        "ressort": "Meinung",
+        "author": "Martin Halla"
+    },
+    "Stuttgart wehrte Hamburgs Angriff ab und bleibt erstklassig": {
+        "isPremium": false,
+        "date": "unknown",
+        "time": "23:07 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "Juni 2023"
+    },
+    "Mettmach: 200 Musiker spielten fuer 2000 Besucher": {
+        "isPremium": false,
+        "date": "05. 6. 2023",
+        "time": "23:04 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "OOeN"
+    },
+    "Steyr hat weniger Langzeitarbeitslose": {
+        "isPremium": false,
+        "date": "05. 6. 2023",
+        "time": "22:34 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "OOeN"
+    },
+    "Bewerbsgruppen laufen bereits Spitzenzeiten": {
+        "isPremium": false,
+        "date": "05. 6. 2023",
+        "time": "22:04 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "OOeN"
+    },
+    "Lustenau schlug WAC und zog ins Play-off-Finale ein": {
+        "isPremium": false,
+        "date": "05. 6. 2023",
+        "time": "22:01 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "nachrichten.at/apa"
+    },
+    "Das sind die Top-Meldungen am Dienstag": {
+        "isPremium": false,
+        "date": "30. 5. 2023",
+        "time": "07:15 Uhr",
+        "comments": 0,
+        "ressort": "keine Angabe",
+        "author": "nachrichten.at"
+    },
+    "Schwere Regenfaelle: Feuerwehren in Krenglbach im Dauereinsatz": {
+        "isPremium": false,
+        "date": "05. 6. 2023",
+        "time": "21:51 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "nachrichten.at"
+    },
+    "Guertelrose-Impfung kann Demenz-Risiko vielleicht mindern": {
+        "isPremium": true,
+        "date": "05. 6. 2023",
+        "time": "13:49 Uhr",
+        "comments": 0,
+        "ressort": "Meine-Welt",
+        "author": "Barbara Rohrhofer"
+    },
+    "Das Bruckner Orchester spielt im Mariendom": {
+        "isPremium": false,
+        "date": "05. 6. 2023",
+        "time": "21:28 Uhr",
+        "comments": 0,
+        "ressort": "Kultur",
+        "author": "OOeN"
+    },
+    "Apple steigt ins Geschaeft mit Computer-Brillen ein": {
+        "isPremium": false,
+        "date": "05. 6. 2023",
+        "time": "21:18 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "Arbeitsunfall: Frau fand die Leiche ihres Mannes": {
+        "isPremium": false,
+        "date": "05. 6. 2023",
+        "time": "20:40 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "nachrichten.at"
+    },
+    "Daten bei Hackerangriff auf Finanzmarktaufsicht gestohlen": {
+        "isPremium": false,
+        "date": "05. 6. 2023",
+        "time": "20:29 Uhr",
+        "comments": 0,
+        "ressort": "Wirtschaft",
+        "author": "nachrichten.at/apa"
+    },
+    "Litzlwurm ging an Lokalmatadore": {
+        "isPremium": false,
+        "date": "05. 6. 2023",
+        "time": "20:24 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "OOeN"
+    },
+    "LED-Umstellung fuer 6000 Laternen": {
+        "isPremium": false,
+        "date": "05. 6. 2023",
+        "time": "20:10 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "OOeN"
+    },
+    "Warum man in Aigen-Schlaegl \"so richtig stolz\" ist": {
+        "isPremium": false,
+        "date": "05. 6. 2023",
+        "time": "20:05 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "OOeN"
+    },
+    "\"Da faellt mir nur noch eines ein: Kasperltheater\"": {
+        "isPremium": true,
+        "date": "05. 6. 2023",
+        "time": "19:43 Uhr",
+        "comments": 0,
+        "ressort": "Lokales",
+        "author": "Valentin Bayer"
     },
     "Blau-weisse Titelparty geht auf Mallorca weiter": {
         "isPremium": false,
@@ -23,13 +2119,21 @@
         "ressort": "Kultur",
         "author": "Helmut Atteneder"
     },
-    "Kennst di aus?": {
-        "isPremium": true,
-        "date": "05. 6. 2023",
-        "time": "18:53 Uhr",
+    "Jetzt live: SPOe-Chef Andreas Babler ueber die Zukunft der Partei": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "15:01 Uhr",
         "comments": 1,
-        "ressort": "Meinung",
-        "author": "Helmut Atteneder"
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Jetzt live: Stimmen erneut ausgezaehlt - Babler als SPOe-Bundesparteivorsitzender bestaetigt": {
+        "isPremium": false,
+        "date": "unknown",
+        "time": "14:16 Uhr",
+        "comments": 4,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
     },
     "\"So macht man sich laecherlich, das ist ein Kasperltheater\"": {
         "isPremium": true,
@@ -38,6 +2142,38 @@
         "comments": 2,
         "ressort": "Lokales",
         "author": "Valentin Berghammer"
+    },
+    "Kennst di aus?": {
+        "isPremium": true,
+        "date": "05. 6. 2023",
+        "time": "18:53 Uhr",
+        "comments": 1,
+        "ressort": "Meinung",
+        "author": "Helmut Atteneder"
+    },
+    "Jetzt live: So geht es in der SPOe weiter": {
+        "isPremium": false,
+        "date": "05. 6. 2023",
+        "time": "14:16 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Maria Happel legt Leitung des Reinhardt-Seminars zurueck": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "13:58 Uhr",
+        "comments": 0,
+        "ressort": "Kultur",
+        "author": "Juni 2023"
+    },
+    "Kika/Leiner: Haelfte der Filialen koennte zusperren": {
+        "isPremium": true,
+        "date": "06. 6. 2023",
+        "time": "13:17 Uhr",
+        "comments": 0,
+        "ressort": "Wirtschaft",
+        "author": "Alexander Zens"
     },
     "Halloween-Nacht: Spanier wurde abgeschoben": {
         "isPremium": false,
@@ -69,6 +2205,14 @@
         "time": "18:08 Uhr",
         "comments": 0,
         "ressort": "Politik",
+        "author": "nachrichten.at/apa"
+    },
+    "Prinz Harry zum Bespitzelungsprozess vor Gericht eingetroffen": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "11:08 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
         "author": "nachrichten.at/apa"
     },
     "Sebastian Ofner: \"Es war eine unglaubliche Reise\"": {
@@ -215,14 +2359,6 @@
         "ressort": "Politik",
         "author": "nachrichten.at/apa"
     },
-    "Guertelrose-Impfung kann Demenz-Risiko vielleicht mindern": {
-        "isPremium": true,
-        "date": "05. 6. 2023",
-        "time": "13:49 Uhr",
-        "comments": 0,
-        "ressort": "Meine-Welt",
-        "author": "Barbara Rohrhofer"
-    },
     "Oesterreichs Haushalte halten sich beim Lebensmitteleinkauf zurueck": {
         "isPremium": false,
         "date": "05. 6. 2023",
@@ -235,6 +2371,22 @@
         "isPremium": false,
         "date": "05. 6. 2023",
         "time": "13:22 Uhr",
+        "comments": 0,
+        "ressort": "Panorama",
+        "author": "nachrichten.at/apa"
+    },
+    "Vorwaerts Steyr trennt sich von Trainer Daniel Madlener": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "07:44 Uhr",
+        "comments": 0,
+        "ressort": "Sport",
+        "author": "Raphael Watzinger"
+    },
+    "Russen sprengten Kachowka-Staudamm in suedukrainischer Region Cherson": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "06:28 Uhr",
         "comments": 0,
         "ressort": "Panorama",
         "author": "nachrichten.at/apa"
@@ -287,6 +2439,22 @@
         "ressort": "Wirtschaft",
         "author": "nachrichten.at/apa"
     },
+    "Andreas Babler: \"Ich werde das Amt annehmen \u2013 wenn das Ergebnis stimmt\"": {
+        "isPremium": false,
+        "date": "06. 6. 2023",
+        "time": "05:59 Uhr",
+        "comments": 0,
+        "ressort": "Politik",
+        "author": "Lucian Mayringer"
+    },
+    "Die aktuellen Meldungen am Montagabend": {
+        "isPremium": false,
+        "date": "05. 6. 2023",
+        "time": "19:15 Uhr",
+        "comments": 0,
+        "ressort": "keine Angabe",
+        "author": "nachrichten.at"
+    },
     "61 Prozent der Vaeter wollen mehr Zeit mit ihren Kindern verbringen": {
         "isPremium": false,
         "date": "05. 6. 2023",
@@ -327,13 +2495,13 @@
         "ressort": "Panorama",
         "author": "nachrichten.at/apa"
     },
-    "Gericht bestaetigt: Anklage gegen Wolf in Causa Eurofighter": {
+    "Causa Eurofighter: Anklage gegen Siegfried Wolf": {
         "isPremium": false,
         "date": "05. 6. 2023",
         "time": "11:47 Uhr",
-        "comments": 0,
-        "ressort": "Wirtschaft",
-        "author": "nachrichten.at/apa"
+        "comments": 9,
+        "ressort": "Politik",
+        "author": "Michael Schaefl"
     },
     "\u201eIch bin der Groesste. Hinter Ali.\u201c - Die besten Sprueche von Zlatan Ibrahimovic": {
         "isPremium": false,
@@ -383,11 +2551,11 @@
         "ressort": "Panorama",
         "author": "nachrichten.at/apa"
     },
-    "Linzer Stromanlagenbauer Hitzinger ist wieder pleite": {
+    "Hitzinger pleite: Eine Million Euro Verlust pro Monat": {
         "isPremium": true,
         "date": "05. 6. 2023",
         "time": "10:37 Uhr",
-        "comments": 0,
+        "comments": 3,
         "ressort": "Wirtschaft",
         "author": "Alexander Zens"
     },
@@ -678,6 +2846,22 @@
         "comments": 0,
         "ressort": "Politik",
         "author": "Markus Staudinger"
+    },
+    "Gericht bestaetigt: Anklage gegen Wolf in Causa Eurofighter": {
+        "isPremium": false,
+        "date": "05. 6. 2023",
+        "time": "11:47 Uhr",
+        "comments": 0,
+        "ressort": "Wirtschaft",
+        "author": "nachrichten.at/apa"
+    },
+    "Linzer Stromanlagenbauer Hitzinger ist wieder pleite": {
+        "isPremium": true,
+        "date": "05. 6. 2023",
+        "time": "10:37 Uhr",
+        "comments": 0,
+        "ressort": "Wirtschaft",
+        "author": "Alexander Zens"
     },
     "Wien putzt sich fuer den Oberoesterreicher-Ball auf": {
         "isPremium": false,
@@ -5039,14 +7223,6 @@
         "ressort": "Politik",
         "author": "nachrichten.at/apa"
     },
-    "Was heute wichtig war: Die Top-Meldungen am Mittwoch": {
-        "isPremium": false,
-        "date": "17. 5. 2023",
-        "time": "18:45 Uhr",
-        "comments": 0,
-        "ressort": "keine Angabe",
-        "author": "nachrichten.at"
-    },
     "Nur Tirol hat\u00a0\u201eCorona-Luecke\u201c noch nicht geschlossen": {
         "isPremium": false,
         "date": "31. 5. 2023",
@@ -5446,14 +7622,6 @@
         "comments": 0,
         "ressort": "Meinung",
         "author": "Nora Bruckmueller"
-    },
-    "Das sind die wichtigsten Meldungen am Mittwoch": {
-        "isPremium": false,
-        "date": "24. 5. 2023",
-        "time": "07:01 Uhr",
-        "comments": 0,
-        "ressort": "keine Angabe",
-        "author": "nachrichten.at"
     },
     "Nahrungskette": {
         "isPremium": true,
@@ -6470,14 +8638,6 @@
         "comments": 0,
         "ressort": "Panorama",
         "author": "nachrichten.at/apa"
-    },
-    "Das sind die Top-Meldungen am Dienstag": {
-        "isPremium": false,
-        "date": "30. 5. 2023",
-        "time": "07:15 Uhr",
-        "comments": 0,
-        "ressort": "keine Angabe",
-        "author": "nachrichten.at"
     },
     "Paar bei Bootsunfall in Thailand verletzt: \"Wir hatten mehr als nur einen Schutzengel\"": {
         "isPremium": false,
